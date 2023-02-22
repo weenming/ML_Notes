@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "3b17fa9957528006",
+    "type": "split",
+    "children": [
+      {
+        "id": "24d2ba7048e46dfc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb959d0b2e08c423",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Feb Week 3/Robustness of Graph Neural Networks at Scale.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e4d028252ec5d347",
+    "type": "split",
+    "children": [
+      {
+        "id": "62c5e032a91b0a4b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "02e69273a12b1c8f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7418f6291a1d3625",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b7589eaeb70d87a7",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c6a7fc58a8a22436",
+    "type": "split",
+    "children": [
+      {
+        "id": "a8f9289b923cc847",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c3339c390336f8a2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Feb Week 3/Robustness of Graph Neural Networks at Scale.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0e462ed85c120f03",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Feb Week 3/Robustness of Graph Neural Networks at Scale.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ae99bbee1f56f3c6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c1239f69508b9e0d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Feb Week 3/Robustness of Graph Neural Networks at Scale.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "eb959d0b2e08c423",
+  "lastOpenFiles": [
+    "Feb Week 3/Adversarial Attack on Graph Structured Data.md",
+    "Feb Week 3/Robustness of Graph Neural Networks at Scale.md",
+    "Feb Week 3/Adversarial Attacks on Neural Networks for Graph Data.md",
+    "Feb Week 3/Graph Neural Networks - Adversarial Robustness.md",
+    "template/Note template.md",
+    "files/Average/Adverserial Attack/Zugner2018KDD_Adversarial Attacks on Neural Networks for Graph Data.pdf",
+    "files/Average/Adverserial Attack/Adversarial Attack on Graph Structured Data.pdf",
+    "files/Average/Adverserial.md",
+    "files/Average/RobustnessOfGraphNeuralNetworksAtScale_NeuralIPS.pdf",
+    "Test 0.md"
+  ]
+}
