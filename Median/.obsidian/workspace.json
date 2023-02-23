@@ -8,18 +8,39 @@
         "type": "tabs",
         "children": [
           {
-            "id": "eb959d0b2e08c423",
+            "id": "6ff42c474914755c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Feb Week 3/Robustness of Graph Neural Networks at Scale.md",
+                "file": "Corss Entropy.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "cda5266c471ac660",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Feb Week 3/Reliable Graph Neural Networks via Robust Aggregation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9527693edea04194",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Feb Week 3/Robustness of Graph Neural Networks at Scale.md",
+                "file": "Feb Week 3/Reliable Graph Neural Networks via Robust Aggregation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Feb Week 3/Robustness of Graph Neural Networks at Scale.md",
+                "file": "Feb Week 3/Reliable Graph Neural Networks via Robust Aggregation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Feb Week 3/Robustness of Graph Neural Networks at Scale.md"
+                "file": "Feb Week 3/Reliable Graph Neural Networks via Robust Aggregation.md"
               }
             }
           }
@@ -146,17 +167,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eb959d0b2e08c423",
+  "active": "cda5266c471ac660",
   "lastOpenFiles": [
-    "Feb Week 3/Adversarial Attack on Graph Structured Data.md",
+    "files/Average/NeurIPS-2020-reliable-graph-neural-networks-via-robust-aggregation-Paper.pdf",
+    "Feb Week 3/Reliable Graph Neural Networks via Robust Aggregation.md",
     "Feb Week 3/Robustness of Graph Neural Networks at Scale.md",
-    "Feb Week 3/Adversarial Attacks on Neural Networks for Graph Data.md",
-    "Feb Week 3/Graph Neural Networks - Adversarial Robustness.md",
-    "template/Note template.md",
-    "files/Average/Adverserial Attack/Zugner2018KDD_Adversarial Attacks on Neural Networks for Graph Data.pdf",
-    "files/Average/Adverserial Attack/Adversarial Attack on Graph Structured Data.pdf",
-    "files/Average/Adverserial.md",
     "files/Average/RobustnessOfGraphNeuralNetworksAtScale_NeuralIPS.pdf",
-    "Test 0.md"
+    "Corss Entropy.md",
+    "files/Average/Adverserial Attack/Adversarial Attack on Graph Structured Data.pdf",
+    "Feb Week 3/Adversarial Attack on Graph Structured Data.md",
+    "Corss Enrtopy.md",
+    "Surrogate Loss.md",
+    "Feb Week 3/Adversarial Attacks on Neural Networks for Graph Data.md"
   ]
 }
