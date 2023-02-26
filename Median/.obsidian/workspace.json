@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Corss Entropy.md",
+                "file": "nodes/Corss Entropy.md",
                 "mode": "source",
                 "source": false
               }
@@ -35,12 +35,40 @@
             "id": "9527693edea04194",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Feb Week 3/Reliable Graph Neural Networks via Robust Aggregation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a2bb2368f72165ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Feb Week 3/Reliable Graph Neural Networks via Robust Aggregation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1fc9862ad8a01f8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "nodes/Multi-dimensional Median.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -106,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Feb Week 3/Reliable Graph Neural Networks via Robust Aggregation.md",
+                "file": "nodes/Multi-dimensional Median.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Feb Week 3/Reliable Graph Neural Networks via Robust Aggregation.md",
+                "file": "nodes/Multi-dimensional Median.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Feb Week 3/Reliable Graph Neural Networks via Robust Aggregation.md"
+                "file": "nodes/Multi-dimensional Median.md"
               }
             }
           }
@@ -167,17 +195,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cda5266c471ac660",
+  "active": "1fc9862ad8a01f8a",
   "lastOpenFiles": [
-    "files/Average/NeurIPS-2020-reliable-graph-neural-networks-via-robust-aggregation-Paper.pdf",
-    "Feb Week 3/Reliable Graph Neural Networks via Robust Aggregation.md",
     "Feb Week 3/Robustness of Graph Neural Networks at Scale.md",
-    "files/Average/RobustnessOfGraphNeuralNetworksAtScale_NeuralIPS.pdf",
-    "Corss Entropy.md",
-    "files/Average/Adverserial Attack/Adversarial Attack on Graph Structured Data.pdf",
-    "Feb Week 3/Adversarial Attack on Graph Structured Data.md",
-    "Corss Enrtopy.md",
-    "Surrogate Loss.md",
+    "Feb Week 3/Reliable Graph Neural Networks via Robust Aggregation.md",
+    "nodes/Multi-dimensional Median.md",
+    "attachments/Pasted image 20230223023727.png",
+    "Test 0.md",
+    "nodes/Breakdown Point.md",
+    "nodes/Aggregation Function.md",
+    "nodes/Soft Medoid.md",
+    "Feb Week 3/Graph Neural Networks - Adversarial Robustness.md",
     "Feb Week 3/Adversarial Attacks on Neural Networks for Graph Data.md"
   ]
 }

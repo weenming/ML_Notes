@@ -1,0 +1,2 @@
+[[Soft Medoid]]
+[[Soft Meadian]]

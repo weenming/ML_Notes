@@ -32,9 +32,10 @@ Outperforms [[Soft Medoid]] in [[Reliable Graph Neural Networks via Robust Aggre
 
 Aproach: weighted mean according to the $l_2$ distance to the *[[Dimension-wise Mean]]* 
 $$
-\mu_{WSM}(X, a)=-C x^T \mbox{ softmin }({\|\bar{x} - x\|_2 \over T\sqrt{d}})
+\mu_{WSM}(X, a)=-C x \mbox{ softargmin }({\|\bar{x} - x\|_2 \over T\sqrt{d}})
 $$
 where $d$ is dimension, $T$ is a hyperparameter and $C$ is the normalization factor s.t. $\sum \mu_{WSM} = \sum x$.
+$\bar{x}$ is the dimension-wise [[argsort]] operater proposed in [[A Continuous Relaxation for the argsort Operator]] 
 Converges to mean when $T\rightarrow \infty$ and hard dimension-wise median.
 
 ## Contributions
