@@ -1,10 +1,12 @@
 [[Article Note]]
 
-[PDF](chapter8.pdf)
+[PDF](files/)
 
 ## Why 
 *Why did I choose to read this article?*
-A chapter in a book published in 2021 (rather updated) on [[Adverserial Attack]]
+
+Influential defense of adversarial attack
+
 
 ## Background
 *Relavent researches*

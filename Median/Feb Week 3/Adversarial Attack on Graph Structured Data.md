@@ -1,6 +1,6 @@
 [[Article Note]]
 
-[PDF](/files/Average/Adverserial%20Attack/Adversarial%20Attack%20on%20Graph%20Structured%20Data.pdf)
+[PDF](Adversarial%20Attack%20on%20Graph%20Structured%20Data.pdf)
 
 ## Why 
 *Why did I choose to read this article?*

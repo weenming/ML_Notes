@@ -4,7 +4,7 @@
 
 ## Background
 *Relavent researches*
-Existing research: small graphs -> this work: adverserial attacks on GNN at scale [[GNN]] [[At Scale]] and the defense [[Adverserial Attack]]
+Existing research: small graphs -> this work: adverserial attacks on GNN at scale [[GNN]]  and the defense [[Adverserial Attack]]
 
 [[Surrogate Loss]]es are not suitable for global attacks [[To Learn]]
 
