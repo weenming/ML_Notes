@@ -1,6 +1,6 @@
 [[Article Note]]
 [[Adverserial Attack]] [[Soft Medoid]] [[Reliable Graph Neural Networks via Robust Aggregation]]
-[PDF](files/)
+[PDF](files)
 
 ## Why 
 *Why did I choose to read this article?*
