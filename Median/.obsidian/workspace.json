@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Feb Week4/Understanding Structural Vulnerability in Graph Convolutional Networks.md",
+                "file": "Feb Week4/GNNGuard - Defending Graph Neural Networks Against Adverarial Attacks.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Feb Week4/Byzantine Stochastic Gradient Descent.md",
+                "file": "Feb Week 3/Adversarial Attacks on Neural Networks for Graph Data.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Feb Week4/Byzantine Stochastic Gradient Descent.md",
+                "file": "Feb Week4/GNNGuard - Defending Graph Neural Networks Against Adverarial Attacks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Feb Week4/Byzantine Stochastic Gradient Descent.md",
+                "file": "Feb Week4/GNNGuard - Defending Graph Neural Networks Against Adverarial Attacks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Feb Week4/Byzantine Stochastic Gradient Descent.md"
+                "file": "Feb Week4/GNNGuard - Defending Graph Neural Networks Against Adverarial Attacks.md"
               }
             }
           }
@@ -159,32 +158,70 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1202c2e7da7919c3",
+  "floating": {
+    "id": "664c760b6ed9af4b",
+    "type": "floating",
+    "children": [
+      {
+        "id": "cf047faa1a86e6ed",
+        "type": "window",
+        "children": [
+          {
+            "id": "735a5f05d87972d5",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "54d243b83bcc0771",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 272,
+        "y": 183,
+        "width": 936,
+        "height": 1361,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "0095f6ed444db9cb",
   "lastOpenFiles": [
-    "nodes/README.md",
     "Feb Week4/Byzantine Stochastic Gradient Descent.md",
+    "Feb Week4/Are Defenses for Graph Neural Networks Robust.md",
+    "Feb Week4/Adversarial Examples on Graph Data - Deep Insights into Attack and Defense.md",
+    "Feb Week4/Understanding Structural Vulnerability in Graph Convolutional Networks.md",
+    "Feb Week4/SoftSort - A Continuous Relaxation for the argsort Operator.md",
+    "files/Robust Stat/Agnostic Estimation of Mean and Covariance.pdf",
+    "files/Robust Stat/Unconfirmed 314364.crdownload",
+    "Feb Week 3/Graph Neural Networks - Adversarial Robustness.md",
+    "Feb Week 3/Robustness of Graph Neural Networks at Scale.md",
+    "Feb Week 3/Reliable Graph Neural Networks via Robust Aggregation.md",
+    "files/Average/NeurIPS-2020-reliable-graph-neural-networks-via-robust-aggregation-Paper.pdf",
+    "nodes/Aggregation Function.md",
+    "files/Robust Stat/SoftSort - A continuous relaxation for the argsort Operator.pdf",
+    "files/Robust Stat/SoftSort A continuous relaxation for the argsort Operator.pdf",
+    "files/Robust Stat/SfotSort A continuous relaxation for the argsort Operator.pdf",
+    "files/Robust Stat/Unconfirmed 627439.crdownload",
+    "Feb Week 3/Adversarial Attacks on Neural Networks for Graph Data.md",
+    "Feb Week 3/Adversarial Attack on Graph Structured Data.md",
+    "nodes/GNN.md",
+    "nodes/README.md",
     "files/fileDoesNotExist/notExistingFile.md",
     "files/fileDoesNotExist",
     "template/Note template.md",
-    "Feb Week4/Understanding Structural Vulnerability in Graph Convolutional Networks.md",
-    "Feb Week4/Adversarial Examples on Graph Data - Deep Insights into Attack and Defense.md",
     "files/Robust Stat/Byzantine Stochastic Gradient Descent.pdf",
     "files/Robust Stat/breakdownPointGuide_rs070101.pdf",
-    "files/Robust Stat/depth.pdf",
-    "files/Robust Stat/survey_of_multidimensional_median.pdf",
-    "files/Robust Stat",
-    "files/Stat/Byzantine Stochastic Gradient Descent.pdf",
     "Feb Week4/Efficient and Robust Feature Selection via Joint $l_{2,1}$-Norms Minimization.md",
-    "Feb Week 3/Reliable Graph Neural Networks via Robust Aggregation.md",
-    "Feb Week 3/Robustness of Graph Neural Networks at Scale.md",
-    "Feb Week4/Are Defenses for Graph Neural Networks Robust.md",
     "Feb Week4/GNNGuard - Defending Graph Neural Networks Against Adverarial Attacks.md",
     "Feb Week4/Provably Robust Node Classification via Low-Pass Message Passing.md",
     "Feb Week4/Graph Structure Learning for Robust Graph Neural Network.md",
-    "Feb Week 3/Graph Neural Networks - Adversarial Robustness.md",
-    "files/Adverserial Attack/Jin2020KDD_Graph Structure Learning for Robust GNN.pdf",
-    "files/Adverserial Attack/Jin2020 _ Graph Structure Learning for Robust GNN.pdf",
-    "files/Adverserial Attack/Entezari2020_All You Need is Low Rank.pdf",
     "files 1.md",
     "files.md",
     "files/Average/RobustnessOfGraphNeuralNetworksAtScale_NeuralIPS.pdf.md",
