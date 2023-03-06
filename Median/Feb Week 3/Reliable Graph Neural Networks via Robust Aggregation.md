@@ -4,7 +4,7 @@
 
 ## Why 
 *Why did I choose to read this article?*
-[[Soft Medoid]], relavent work of [[Robustness of Graph Neural Networks at Scale]]
+[[Soft Medoid]], relavent work of [[Robustness of Graph Neural Networks at Scale]] to defend [[Adverserial Attack]] on [[GNN]]s
 
 ## Background
 *Relavent researches*

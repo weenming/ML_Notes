@@ -8,7 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cda5266c471ac660",
+            "id": "0095f6ed444db9cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Feb Week4/GNNGuard - Defending Graph Neural Networks Against Adverarial Attacks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1202c2e7da7919c3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -96,6 +108,10 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
+=======
+                "file": "Feb Week4/GNNGuard - Defending Graph Neural Networks Against Adverarial Attacks.md",
+>>>>>>> 76f2237ac4abad87d8e0a3f4f981f9052ee2a287
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,6 +128,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
+=======
+                "file": "Feb Week4/GNNGuard - Defending Graph Neural Networks Against Adverarial Attacks.md",
+>>>>>>> 76f2237ac4abad87d8e0a3f4f981f9052ee2a287
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +153,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Feb Week4/GNNGuard - Defending Graph Neural Networks Against Adverarial Attacks.md"
+              }
             }
           }
         ]
@@ -154,19 +176,19 @@
     }
   },
   "floating": {
-    "id": "3cd61fe72f5b2522",
+    "id": "664c760b6ed9af4b",
     "type": "floating",
     "children": [
       {
-        "id": "9d082f9985dd8e8d",
+        "id": "cf047faa1a86e6ed",
         "type": "window",
         "children": [
           {
-            "id": "3dd4935952b5fcc2",
+            "id": "735a5f05d87972d5",
             "type": "tabs",
             "children": [
               {
-                "id": "09f000d0b2af6e8c",
+                "id": "54d243b83bcc0771",
                 "type": "leaf",
                 "state": {
                   "type": "graph",
@@ -177,39 +199,50 @@
           }
         ],
         "direction": "vertical",
-        "x": -2594,
-        "y": 351,
-        "width": 1036,
-        "height": 857,
+        "x": 272,
+        "y": 183,
+        "width": 936,
+        "height": 1361,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "09f000d0b2af6e8c",
+  "active": "0095f6ed444db9cb",
   "lastOpenFiles": [
-    "files/Adverserial Attack/Zugner2018KDD_Adversarial Attacks on Neural Networks for Graph Data.pdf",
+    "Feb Week4/Byzantine Stochastic Gradient Descent.md",
+    "Feb Week4/Are Defenses for Graph Neural Networks Robust.md",
+    "Feb Week4/Adversarial Examples on Graph Data - Deep Insights into Attack and Defense.md",
+    "Feb Week4/Understanding Structural Vulnerability in Graph Convolutional Networks.md",
+    "Feb Week4/SoftSort - A Continuous Relaxation for the argsort Operator.md",
+    "files/Robust Stat/Agnostic Estimation of Mean and Covariance.pdf",
+    "files/Robust Stat/Unconfirmed 314364.crdownload",
+    "Feb Week 3/Graph Neural Networks - Adversarial Robustness.md",
+    "Feb Week 3/Robustness of Graph Neural Networks at Scale.md",
+    "Feb Week 3/Reliable Graph Neural Networks via Robust Aggregation.md",
+    "files/Average/NeurIPS-2020-reliable-graph-neural-networks-via-robust-aggregation-Paper.pdf",
+    "nodes/Aggregation Function.md",
+    "files/Robust Stat/SoftSort - A continuous relaxation for the argsort Operator.pdf",
+    "files/Robust Stat/SoftSort A continuous relaxation for the argsort Operator.pdf",
+    "files/Robust Stat/SfotSort A continuous relaxation for the argsort Operator.pdf",
+    "files/Robust Stat/Unconfirmed 627439.crdownload",
     "Feb Week 3/Adversarial Attacks on Neural Networks for Graph Data.md",
     "Feb Week 3/Adversarial Attack on Graph Structured Data.md",
-    "Feb Week4/Are Defenses for Graph Neural Networks Robust.md",
-    "Feb Week 3/Robustness of Graph Neural Networks at Scale.md",
-    "files/Adverserial Attack/11129_are_defenses_for_graph_neural_.robust_wiith_supp.pdf",
-    "files/Adverserial Attack/Unconfirmed 580473.crdownload",
-    "Feb Week 3/Reliable Graph Neural Networks via Robust Aggregation.md",
-    "Feb Week 3/Graph Neural Networks - Adversarial Robustness.md",
-    "nodes/At Scale.md",
-    "Feb Week4/GNNGuard.md",
-    "nodes/Soft Medoid.md",
-    "files/Adverserial Attack/chapter8.pdf",
-    "files/Adverserial Attack/NeurIPS-2020-gnnguard-defending-graph-neural-networks-against-adversarial-attacks-Paper.pdf",
-    "files/Average/Adverserial Attack/Unconfirmed 859328.crdownload",
-    "files/Adverserial Attack/Adversarial Attack on Graph Structured Data.pdf",
-    "nodes/Corss Entropy.md",
-    "files/Stat/depth.pdf",
-    "nodes/Multi-dimensional Median.md",
-    "attachments/Pasted image 20230223023727.png",
-    "Test 0.md",
-    "nodes/Breakdown Point.md",
-    "nodes/Aggregation Function.md"
+    "nodes/GNN.md",
+    "nodes/README.md",
+    "files/fileDoesNotExist/notExistingFile.md",
+    "files/fileDoesNotExist",
+    "template/Note template.md",
+    "files/Robust Stat/Byzantine Stochastic Gradient Descent.pdf",
+    "files/Robust Stat/breakdownPointGuide_rs070101.pdf",
+    "Feb Week4/Efficient and Robust Feature Selection via Joint $l_{2,1}$-Norms Minimization.md",
+    "Feb Week4/GNNGuard - Defending Graph Neural Networks Against Adverarial Attacks.md",
+    "Feb Week4/Provably Robust Node Classification via Low-Pass Message Passing.md",
+    "Feb Week4/Graph Structure Learning for Robust Graph Neural Network.md",
+    "files 1.md",
+    "files.md",
+    "files/Average/RobustnessOfGraphNeuralNetworksAtScale_NeuralIPS.pdf.md",
+    "nodes/Adverseial Attack.md",
+    "nodes/Multi-dimensional Median.md"
   ]
 }

@@ -4,7 +4,7 @@
 
 ## Background
 *Relavent researches*
-Existing research: small graphs -> this work: adverserial attacks on GNN at scale [[GNN]]  and the defense [[Adverserial Attack]]
+Existing research: small graphs -> this work: adverserial attacks on [[GNN]]s at scale and the defense [[Adverserial Attack]]
 
 [[Surrogate Loss]]es are not suitable for global attacks [[To Learn]]
 
@@ -35,7 +35,7 @@ $$
 \mu_{WSM}(X, a)=-C x \mbox{ softargmin }({\|\bar{x} - x\|_2 \over T\sqrt{d}})
 $$
 where $d$ is dimension, $T$ is a hyperparameter and $C$ is the normalization factor s.t. $\sum \mu_{WSM} = \sum x$.
-$\bar{x}$ is the dimension-wise [[argsort]] operater proposed in [[A Continuous Relaxation for the argsort Operator]] 
+$\bar{x}$ is the dimension-wise [[argsort]] operater proposed in [[SoftSort - A Continuous Relaxation for the argsort Operator]] 
 Converges to mean when $T\rightarrow \infty$ and hard dimension-wise median.
 
 ## Contributions

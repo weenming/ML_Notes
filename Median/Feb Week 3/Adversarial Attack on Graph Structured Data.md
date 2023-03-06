@@ -4,7 +4,7 @@
 
 ## Why 
 *Why did I choose to read this article?*
-A frequently referenced article on [[Adverserial Attack]] on GNN
+A frequently referenced article on [[Adverserial Attack]] on [[GNN]]
 
 
 ## Background

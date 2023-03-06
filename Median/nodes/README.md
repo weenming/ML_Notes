@@ -1,0 +1,3 @@
+This foler exists because of empty/wrong externel links to PDF files.
+
+When pressing the link in Obsidian opens the file but if the file does not exist it creates one....
